@@ -1,0 +1,6 @@
+theme_mode: dark
+accent_color: "#11EEFF"
+overlay_opactiy: 0.30
+overlay_blur: true
+
+background_image: "Resources\\voidwaves.png"
