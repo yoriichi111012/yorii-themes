@@ -6,3 +6,7 @@ themes:
   - theme: "Void Waves"
     author: yorii
     url: "https://raw.githubusercontent.com/yoriichi111012/yorii-themes/main/Void%20Waves/theme.yaml"
+
+  - theme: "Icy Blue"
+    author: yorii
+    url: "https://raw.githubusercontent.com/yoriichi111012/yorii-themes/main/Icy%20Blue/theme.yaml"
