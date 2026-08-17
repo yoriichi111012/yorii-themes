@@ -1,6 +1,6 @@
 theme_mode: dark
 accent_color: '#FFA987'
-background_image: 
+background_image: "Resources\\background.jpg"
 overlay_enabled: true
 overlay_opacity: 0.30000000447034836
 overlay_blur: false
