@@ -10,3 +10,7 @@ themes:
   - theme: "Icy Blue"
     author: yoriichi111012
     url: "https://raw.githubusercontent.com/yoriichi111012/yorii-themes/main/Icy%20Blue/theme.yaml"
+
+  - theme: "ad"
+    author: "yoriichi111012"
+    url: "themes/ad/theme.yaml"
