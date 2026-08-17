@@ -5,7 +5,7 @@ overlay_blur: true
 
 background_image: "Resources\\icyblue.jpg"
 
-card_border_thickness: 1
+card_border_thickness: 0
 card_border_color: "#A0FFFFFF"
 card_background_color: "#50000000"
 settingscard_background_color: "#50000000"
