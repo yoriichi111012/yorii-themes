@@ -5,16 +5,6 @@ overlay_blur: true
 
 background_image: "Resources\\icyblue.jpg"
 
-card_border_thickness: 0
-card_border_color: "#A0FFFFFF"
-card_background_color: "#50000000"
-settingscard_background_color: "#50000000"
-settingsexpander_hover_color: "#60000000"
-settingsexpander_pressed_color: "#70000000"
-settingscard_disabled_color: "#70000000"
-
-systembackdrop: mica
-
 serverlist_enabled: true
 worldlist_enabled: true
 releasenotes_enabled: true
