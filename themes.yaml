@@ -14,3 +14,7 @@ themes:
   - theme: "Temple"
     author: "yoriichi111012"
     url: "https://raw.githubusercontent.com/yoriichi111012/yorii-themes/main/temple/theme.yaml"
+
+  - theme: "panorama"
+    author: "yoriichi111012"
+    url: "https://raw.githubusercontent.com/yoriichi111012/yorii-themes/main/panorama/theme.yaml"
