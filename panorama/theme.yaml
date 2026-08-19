@@ -1,0 +1,17 @@
+theme_mode: dark
+accent_color: '#FFD3B3'
+background_image: 
+overlay_enabled: true
+overlay_opacity: 0.3
+overlay_blur: false
+serverlist_enabled: true
+worldlist_enabled: true
+releasenotes_enabled: true
+card_border_thickness: 
+card_border_color: 
+card_background_color: 
+settingscard_background_color: 
+settingsexpander_hover_color: 
+settingsexpander_pressed_color: 
+settingscard_disabled_color: 
+systembackdrop: mica
