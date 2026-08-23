@@ -1,20 +1,21 @@
 themes:
-  - theme: "Cotton Candy"
-    author: "yoriichi111012"
-    url: "https://raw.githubusercontent.com/yoriichi111012/yorii-themes/main/Cotton%20Candy/theme.yaml"
-
-  - theme: "Void Waves"
-    author: "yoriichi111012"
-    url: "https://raw.githubusercontent.com/yoriichi111012/yorii-themes/main/Void%20Waves/theme.yaml"
-
-  - theme: "Icy Blue"
-    author: "yoriichi111012"
-    url: "https://raw.githubusercontent.com/yoriichi111012/yorii-themes/main/Icy%20Blue/theme.yaml"
-
-  - theme: "Temple"
-    author: "yoriichi111012"
-    url: "https://raw.githubusercontent.com/yoriichi111012/yorii-themes/main/temple/theme.yaml"
-
-  - theme: "panorama"
-    author: "yoriichi111012"
-    url: "https://raw.githubusercontent.com/yoriichi111012/yorii-themes/main/panorama/theme.yaml"
+- theme: Cotton Candy
+  author: yoriichi111012
+  url: https://raw.githubusercontent.com/yoriichi111012/yorii-themes/main/Cotton%20Candy/theme.yaml
+  details_url: 
+  background_url: 
+- theme: Void Waves
+  author: yoriichi111012
+  url: https://raw.githubusercontent.com/yoriichi111012/yorii-themes/main/Void%20Waves/theme.yaml
+  details_url: 
+  background_url: 
+- theme: Icy Blue
+  author: yoriichi111012
+  url: https://raw.githubusercontent.com/yoriichi111012/yorii-themes/main/Icy%20Blue/theme.yaml
+  details_url: 
+  background_url: 
+- theme: Temple
+  author: yoriichi111012
+  url: https://raw.githubusercontent.com/yoriichi111012/yorii-themes/main/temple/theme.yaml
+  details_url: 
+  background_url: 
