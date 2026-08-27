@@ -29,3 +29,8 @@ themes:
   url: https://raw.githubusercontent.com/yoriichi111012/yorii-themes/main/cloudy%20day%20dark/theme.yaml
   details_url: 
   background_url: 
+- theme: Quiescent
+  author: yoriichi111012
+  url: https://raw.githubusercontent.com/yoriichi111012/yorii-themes/main/quiescent/theme.yaml
+  details_url: 
+  background_url: 
