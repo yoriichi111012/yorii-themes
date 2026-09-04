@@ -39,3 +39,8 @@ themes:
   url: https://raw.githubusercontent.com/yoriichi111012/yorii-themes/main/violet%20valley/theme.yaml
   details_url: 
   background_url: 
+- theme: Twilight
+  author: yoriichi111012
+  url: https://raw.githubusercontent.com/yoriichi111012/yorii-themes/main/twilight/theme.yaml
+  details_url: 
+  background_url: 
