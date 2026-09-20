@@ -59,3 +59,8 @@ themes:
   url: https://raw.githubusercontent.com/yoriichi111012/yorii-themes/main/purple%20glow/theme.yaml
   details_url: 
   background_url: 
+- theme: Topography
+  author: yoriichi111012
+  url: https://raw.githubusercontent.com/yoriichi111012/yorii-themes/main/topography/theme.yaml
+  details_url: 
+  background_url: 
